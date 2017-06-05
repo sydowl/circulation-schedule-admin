@@ -1,0 +1,71 @@
+body 
+{
+	margin-left: 50px;
+}
+
+#w
+{
+    max-width:75px;
+    min-width:75px;
+    font-size: 12pt;
+    resize: none;
+}
+
+#h
+{
+
+    font-size: 14pt;
+    font-weight: 600;
+	margin-left: 350px;
+	margin-right: 800px;
+	text-align: center;
+}
+
+.dates
+{
+   font-size: 14pt;
+	font-weight: 600;
+	margin-left: 582px;
+}
+
+
+textarea
+{
+    max-height: 20px;
+    resize: none;
+
+}
+
+select
+{
+    width:55px;
+    font: bold 84% 'trebuchet ms',helvetica,sans-serif;
+    border:1px solid;
+    border-color: #696 #363 #363 #696;
+}
+
+
+button
+{
+    width:70 px;
+    color:black;
+    font: bold 95% 'trebuchet ms',helvetica,sans-serif;
+    background-color:#fed;
+    border:1px solid gray;
+}
+
+input[type="button"] {
+        background-color: #FFCC33;
+        border-radius:6px;
+        color:black;
+        font-family:arial;
+        font-size:13px;
+        font-weight:bold;
+        padding:2px 21px;
+}
+
+
+td
+{
+   white-space:nowrap;
+}
